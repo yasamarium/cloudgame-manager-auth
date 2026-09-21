@@ -1,2 +1,3 @@
-# cloudgame-manager-auth
-User Authentication and Profile Service for Cloud Gaming (5h Auto-Restart)
+# Cloud Gaming Auth Service (`cloudgame-manager-auth`)
+
+Authentication and user profile service running on a 5-hour auto-restart GitHub Actions workflow.
